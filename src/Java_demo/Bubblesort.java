@@ -27,6 +27,7 @@ public class Bubblesort {
 		}
 		
 		System.out.println("The sorted array is ");
+		System.out.println("The sorted array is new line added in branch");
 		
 		for(int i = 0;i<a.length;i++)
 		{
