@@ -4,14 +4,19 @@ public class Bubblesort {
 
 	public static void main(String[] args) {
 		
-		System.out.println("I do change and I do git stash");
-		int a[] = { 7,3,9,2,7,10,34,22,78};
+		//Draft personadded 99 and 99
+		System.out.println("Branch add two integres 99 and 99");
+		System.out.println("Main add two integres 99 and 99");
+		System.out.println("Branch changed byt not stashed or add or commit");
+
+		int a[] = { 7,3,9,2,7,10,34,22,78,99,99};
 		int temp;
 		
 		for(int i = 0;i<a.length;i++)
 		{
 			for (int j=0;j<a.length-1-i;j++)
 			{
+				
 				if (a[j] > a[j+1])
 				{
 					temp = a[j];
