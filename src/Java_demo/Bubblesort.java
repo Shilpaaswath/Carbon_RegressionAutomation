@@ -8,12 +8,7 @@ public class Bubblesort {
 		System.out.println("Branch add two integres 99 and 99");
 		System.out.println("Main add two integres 99 and 99");
 		System.out.println("Branch changed byt not stashed or add or commit");
-<<<<<<< Updated upstream
-		System.out.println("No stash pop i did");
-=======
-		System.out.println("Branch changed and stashed");
-		
->>>>>>> Stashed changes
+		System.out.println("merge below11 changes to main branch");
 		int a[] = { 7,3,9,2,7,10,34,22,78,99,99};
 		int temp;
 		
