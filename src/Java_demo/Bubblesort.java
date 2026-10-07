@@ -4,8 +4,10 @@ public class Bubblesort {
 
 	public static void main(String[] args) {
 		
-		
-		int a[] = { 7,3,9,2,7,10,34,22,78};
+		//Draft personadded 99 and 99
+		System.out.println("Branch add two integres 99 and 99");
+		System.out.println("Main add two integres 99 and 99");
+		int a[] = { 7,3,9,2,7,10,34,22,78,99,99};
 		int temp;
 		
 		for(int i = 0;i<a.length;i++)
